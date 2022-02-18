@@ -23,9 +23,11 @@ target/
 /nbproject/private/
 /nbbuild/
 /dist/
+
 /nbdist/
 /.nb-gradle/
 build/
 
 ### VS Code ###
 .vscode/
+.DS_Store
